@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Studies Material\\DBS Project\\Bank Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\facerecognitionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\facerecognitionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\facerecognitionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\facerecognitionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\addclientpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\addclientpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\addclientpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\addclientpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\add-bank-staff.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\add-bank-staff.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|e:\\studies material\\dbs project\\bank management system\\bank management system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FBD8F3F5-CD61-4EAB-838D-97FE399DE872}|Bank Management System\\Bank Management System.csproj|solutionrelative:bank management system\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceRecognitionPage.aspx.cs",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\FaceRecognitionPage.aspx.cs",
+              "RelativeDocumentMoniker": "Bank Management System\\FaceRecognitionPage.aspx.cs",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\FaceRecognitionPage.aspx.cs",
+              "RelativeToolTip": "Bank Management System\\FaceRecognitionPage.aspx.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:51:27.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaceRecognitionPage.aspx",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\FaceRecognitionPage.aspx",
+              "RelativeDocumentMoniker": "Bank Management System\\FaceRecognitionPage.aspx",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\FaceRecognitionPage.aspx",
+              "RelativeToolTip": "Bank Management System\\FaceRecognitionPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T08:51:03.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClientPage.aspx.cs",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\AddClientPage.aspx.cs",
+              "RelativeDocumentMoniker": "Bank Management System\\AddClientPage.aspx.cs",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\AddClientPage.aspx.cs",
+              "RelativeToolTip": "Bank Management System\\AddClientPage.aspx.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwEEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:42:45.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddClientPage.aspx",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\AddClientPage.aspx",
+              "RelativeDocumentMoniker": "Bank Management System\\AddClientPage.aspx",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\AddClientPage.aspx",
+              "RelativeToolTip": "Bank Management System\\AddClientPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T08:42:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add-bank-staff.css",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\add-bank-staff.css",
+              "RelativeDocumentMoniker": "Bank Management System\\add-bank-staff.css",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\add-bank-staff.css",
+              "RelativeToolTip": "Bank Management System\\add-bank-staff.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T08:42:39.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Bank Management System\\HomePage.aspx",
+              "ToolTip": "E:\\Studies Material\\DBS Project\\Bank Management System\\Bank Management System\\HomePage.aspx",
+              "RelativeToolTip": "Bank Management System\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-15T08:38:07.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
