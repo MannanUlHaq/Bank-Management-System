@@ -43,6 +43,8 @@ To run this project on your Laptop/PC, follow these steps:
      ```bash
      pip install deepface
      ```
+   - Copy the FaceNet model file provided in the repository folder named `DeepFace Model`.
+   - Paste this file in the following directory: `C:\Users\Mannan Ul Haq\.deepface\weights`.
 
 5. **Database Access via Azure**:
    - We use an Azure server with our SQL Server database.
