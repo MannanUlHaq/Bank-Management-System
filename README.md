@@ -43,6 +43,7 @@ To run this project on your Laptop/PC, follow these steps:
      ```bash
      pip install deepface
      ```
+   - Remember that when you run a code using Deepface for the first time on your laptop/PC, it needs to download the respective model. For example, if you are using the FaceNet model, it will take some time to download the model the first time you run the face recognition code.
 
 5. **Database Access via Azure**:
    - We use an Azure server with our SQL Server database.
